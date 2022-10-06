@@ -621,7 +621,6 @@ img {
   text-transform: uppercase;
   color: var(--logo-white-text-color);
   margin-bottom: 20px;
-  padding-top: 12px;
 }
 .action-list {
   display: flex;
